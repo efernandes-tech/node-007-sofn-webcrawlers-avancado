@@ -1,28 +1,32 @@
-# cotalista-robot
+# node-007-sofn-webcrawlers-avancado
 
 Install
 -----
 
 ``npm install``
 
-Run
------
-
-``npm start``
-
-Branch avancado - Run
+Start - Web Crawler
 -----
 
 ``cd proj_list_movies``
 
 ``node index.js``
 
-Branch avancado - OCR (ler texto em imagem)
+Start - Test
+
+``node index.js``
+
+Start - OCR (ler texto em imagem)
 
 ``node ocr.js``
 
 ``node ocr_http.js``
 
-Branch avancado - ScreenShot
+Start - ScreenShot
 
-``node screenshot.js``# node-007-sofn-webcrawlers-avancado
+``node screenshot.js``
+
+Run - Web Crawler
+-----
+
+http://localhost:3000/
