@@ -11,7 +11,7 @@
   "dependencies": {
     "@hapi/hapi": "^18.4.0",
     "hapi": "^18.1.0",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "node-horseman": "^3.3.0",
     "phantomjs": "^2.1.7"
   }
