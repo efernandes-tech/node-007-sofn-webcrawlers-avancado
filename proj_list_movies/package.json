@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "hapi": "^18.1.0",
     "mongoose": "^5.7.1",
     "node-horseman": "^3.3.0",
